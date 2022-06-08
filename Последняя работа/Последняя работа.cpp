@@ -3,6 +3,7 @@
 #include <malloc.h>
 #include <math.h>
 #include <string.h>
+#include <stdbool.h>
 
 int size_stack;
 int sp = 0;
